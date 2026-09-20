@@ -1,5 +1,5 @@
 /**
- * Set NEXT_PUBLIC_SITE_URL in production (e.g. https://zingy.com) so Open Graph,
+ * Set NEXT_PUBLIC_SITE_URL in production (e.g. https://aloll0-soda.vercel.app/) so Open Graph,
  * canonical URLs, sitemap, and JSON-LD use the correct origin. On Vercel,
  * VERCEL_URL is used as a fallback when the public URL is not set.
  */

@@ -31,7 +31,7 @@ export function ZingyCanvasLoader() {
     >
       <div className="flex items-center gap-4 rounded-full border-2 border-orange-500 bg-yellow-300/95 px-5 py-2.5 shadow-[0_12px_40px_-8px_rgba(15,23,42,0.25)] backdrop-blur-md">
         <span className="text-xs font-bold tracking-[0.2em] text-sky-950 uppercase md:text-sm">
-          Zinging up
+          aloll0 up
         </span>
         <div className="flex items-center gap-1.5" aria-hidden>
           {[0, 1, 2].map((i) => (
