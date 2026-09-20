@@ -9,7 +9,7 @@ const Footer = () => {
         <Link
           href="/"
           className="inline-flex focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[#FE6334]"
-          aria-label="Zingy home"
+          aria-label="aloll0 home"
         >
           <ZingyLogo variant="solid" />
         </Link>

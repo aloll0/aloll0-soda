@@ -124,7 +124,7 @@ const Hero = () => {
             src={"/all-cans-bunched.png"}
             width={500}
             height={500}
-            alt="All flavors of Zingy soda"
+            alt="All flavors of aloll0 soda"
             className="w-full md:hidden"
           />
           <div>

@@ -32,7 +32,7 @@ export const metadata: Metadata = {
   description: SITE_DESCRIPTION,
   applicationName: SITE_NAME,
   keywords: [
-    "Zingy",
+    "aloll0",
     "gut health soda",
     "low sugar soda",
     "prebiotic soda",
